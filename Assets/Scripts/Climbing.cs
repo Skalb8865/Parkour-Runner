@@ -45,6 +45,7 @@ public class Climbing : MonoBehaviour
 
     private void Update()
     {
+        //comment for git update
         WallCheck();
         StateMachine();
 
